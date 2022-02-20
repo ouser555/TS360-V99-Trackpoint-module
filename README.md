@@ -85,28 +85,30 @@
   ![image](https://github.com/ouser555/ergodashv99/blob/main/004.jpeg)
   ![image](https://github.com/ouser555/ergodashv99/blob/main/003.jpeg)
   
-
+  ![image](https://github.com/ouser555/TS360-V99-Trackpoint-module/blob/main/pic/001.png)
+  
 * 5.0 Block Diagram
 
-  
-
+  ![image](https://github.com/ouser555/TS360-V99-Trackpoint-module/blob/main/pic/002.png)
+  ![image](https://github.com/ouser555/TS360-V99-Trackpoint-module/blob/main/pic/003.png)
+  ![image](https://github.com/ouser555/TS360-V99-Trackpoint-module/blob/main/pic/004.png)
   
 
 * 6.0 Pin Assignments of PS2 & I2C
 
-  * Pin 1 : CLK
+  * Pin 1 : CLK/MOSI
 
   * Pin 2 : VCC 
 
-  * Pin 3 : SDA 
+  * Pin 3 : SDA/MISO
 
   * Pin 4 : GND  
 
-  * Pin 5 : Mouse Right Button 
+  * Pin 5 : Mouse Right Button/NCS 
 
-  * Pin 6 : Mouse Left Button 
+  * Pin 6 : Mouse Left Button/SCLK
 
-  * Pin 7 : Scan
+  * Pin 7 : Scan/Motion
 
   * R1 Jumper short!
 
