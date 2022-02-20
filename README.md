@@ -94,7 +94,7 @@
   ![image](https://github.com/ouser555/TS360-V99-Trackpoint-module/blob/main/pic/004.png)
   
 
-* 6.0 Pin Assignments of PS2 & I2C
+* 6.0 Pin Assignments of I2C & SPI
 
   * Pin 1 : CLK/MOSI
 
