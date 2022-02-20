@@ -82,8 +82,8 @@
 
 * 4.0 Outlook
 
-  picture
-
+  ![image](https://github.com/ouser555/ergodashv99/blob/main/004.jpeg)
+  ![image](https://github.com/ouser555/ergodashv99/blob/main/003.jpeg)
   
 
 * 5.0 Block Diagram
